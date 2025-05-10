@@ -1,4 +1,4 @@
 # PsychchedelicSoulGloam
 
-Name: Xinyang Liu\n
+Name: Xinyang Liu  
 E-mail: liuxinya21@mails.tsinghua.edu.cn
